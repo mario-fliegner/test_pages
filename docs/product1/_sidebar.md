@@ -7,3 +7,4 @@
   * [Configuration](product1/configuration.md)
   * [FAQ](product1/faq.md)
 * [Product 2](/product2/intro.md)
+* [Glossary](./_glossary.md)

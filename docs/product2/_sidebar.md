@@ -7,3 +7,4 @@
   * [Get a License](product2/license.md)
   * [Configuration](product2/configuration.md)
   * [FAQ](product2/faq.md)
+* [Glossary](./_glossary.md)
